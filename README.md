@@ -2,6 +2,8 @@
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=challenge-card-game-war)
 
+[Card game War app](https://challenge-card-game-war.vercel.app/)
+
 ## **Hashtags**
 
 | Hashtags               |
