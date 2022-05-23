@@ -1,5 +1,7 @@
 # **CHALLENGE #1** Card game War
 
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=challenge-card-game-war)
+
 ## **Hashtags**
 
 | Hashtags               |
@@ -38,4 +40,6 @@ If the cards are the same rank, it is War. Each player turns up one card face do
 ## **Technology**
 
 **App type:** web app <br/>
-**Framework:** Angular 2+
+**Framework:** Angular 2+ <br/>
+**Deployment:** Vercel <br/>
+**Deployment - badge support:** https://github.com/therealsujitk/vercel-badge/blob/main/README.md
