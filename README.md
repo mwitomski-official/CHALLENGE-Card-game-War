@@ -1,6 +1,6 @@
-# **CHALLENGE #1** Card game War
+# **CHALLENGE #2** Card game War
 
-![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=challenge-card-game-war)
+SOON!
 
 [Card game War app](https://challenge-card-game-war.vercel.app/)
 
