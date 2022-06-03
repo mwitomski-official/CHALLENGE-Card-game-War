@@ -2,8 +2,6 @@
 
 SOON!
 
-[Card game War app](https://challenge-card-game-war.vercel.app/)
-
 ## **Hashtags**
 
 | Hashtags               |
